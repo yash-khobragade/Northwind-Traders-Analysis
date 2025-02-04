@@ -5,8 +5,8 @@ A SQL-based retail data analysis project extracting key business insights on sal
 This project utilizes **SQL** to analyze a structured retail database, uncovering insights related to **sales performance, customer behavior, and operational efficiency**. The project includes SQL queries and their corresponding outputs to support data-driven decision-making.
 
 ## 📂 Project Files
-- [**myproject.sql**]() – Contains all SQL queries executed for analysis.
-- [**SQL Project.pdf**]() – Includes query results and insights derived from the dataset.
+- [**myproject.sql**](https://github.com/yash-khobragade/Northwind-Traders-Analysis/blob/main/myproject.sql) – Contains all SQL queries executed for analysis.
+- [**SQL Project.pdf**](https://github.com/yash-khobragade/Northwind-Traders-Analysis/blob/main/SQL%20Project.pdf) – Includes query results and insights derived from the dataset.
 
 ## 🔍 Key Analyses & Insights
 - Identified **top 5 employees** based on revenue and **top 5 spending customers**.
